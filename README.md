@@ -101,13 +101,4 @@ dBm = -113 + (RSSI * 2)
 - Ensure your GSM module has adequate power for reliable operation.  
 - Designed for basic monitoring; for production, consider non-blocking code and data logging.
 
----
-
-## License
-
-This project is open-source and free to use for educational or personal purposes.  
-
-
-
 4. You will see an initial message:
-
