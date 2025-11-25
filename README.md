@@ -100,5 +100,3 @@ dBm = -113 + (RSSI * 2)
 - Thresholds for signal quality are approximate and may vary by network.  
 - Ensure your GSM module has adequate power for reliable operation.  
 - Designed for basic monitoring; for production, consider non-blocking code and data logging.
-
-4. You will see an initial message:
